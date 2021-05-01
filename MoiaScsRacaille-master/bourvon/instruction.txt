@@ -1,0 +1,3 @@
+export LD_LIBRARY_PATH=/usr/local/sisctus4.4.1/lib/
+#javac -d . -cp /usr/local/siscstus4.4.1/bin/sp-4.4.1/sicstus-4.4.1/bin/jasper.jar *.java
+java -cp .:/usr/local/siscstus4.4.1/bin/sp-4.4.1/sicstus-4.4.1/bin/jasper.jar joueur

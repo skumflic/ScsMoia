@@ -1,0 +1,3 @@
+public enum Couleur {
+	ORANGE, BLEU, POURPRE, FUCHIA, JAUNE, ROUGE, VERT, MARON
+}
